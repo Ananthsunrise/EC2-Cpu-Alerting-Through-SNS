@@ -4,6 +4,17 @@
 **Overview :**  
 In this project, We create one ec2 instance and configure cpu alarm for that instance in cloudwatch. If CPU Reaches above certain threshold level, you will get a notification through sns.
 
+**Cloudwatch:**
+It is a gatekeeper for aws account which will help you in monitoring deleting reporting and logging.
+
+**Features of cloudwatch :** 
+1.monitoring
+2.alarms
+3.log insights(save activity if any service try to access your service like ec2,s3,..)
+4.cost optimization
+5.scaling
+6.log groups(activity of project perform in aws account)
+
 **Step 1:
 Create EC2 Instance**
 
